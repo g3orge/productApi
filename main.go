@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
+	"./handlers"
 	"github.com/gorilla/mux"
-	"gobred.com/handlers"
 )
 
 func main() {
